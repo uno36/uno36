@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emmanuel
 - 👀 I have a great passion for coding, especially in C, C#, C++, JavaScript and much more
-- 🌱 I’m currently undertaking course with micrverse 
+- 🌱 I’m currently undertaking a course with microverse 
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
 
