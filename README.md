@@ -3,6 +3,7 @@
 - 🌱 I’m currently undertaking a course with microverse 
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
+![Emmanuels's GitHub stats](https://github-readme-stats.vercel.app/api?
 
 <!---
 uno36/uno36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
