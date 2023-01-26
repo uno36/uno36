@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emmanuel
 
-- 🌱 I’m an coding and entrepreneurial enthusiast
+- 🌱 I’m a coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
 - 🔭 I’m currently working on **Doing C, C++, Python, HTM, CSS and JavaScript, including my technical interview preperations**
