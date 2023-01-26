@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Emmanuel
 - 👀 I have a great passion for coding, especially in C, C#, C++, JavaScript and much more
-- 🌱 I’m currently undertaking a course with microverse 
+- 🌱 I’m an coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
+- 🔭 I’m currently working on **Doing C, C++, Python, HTM, CSS and JavaScript, including my technical interview preperations**
+ - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
+
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uno36)](https://github.com/uno36/github-readme-stats)
 
 <!---
