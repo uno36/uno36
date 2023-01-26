@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Emmanuel
-- 👀 I have a great passion for coding, especially in C, C#, C++, JavaScript and much more
+
 - 🌱 I’m an coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
