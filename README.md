@@ -8,8 +8,7 @@
  - ✨ Fun fact: I love body building
 
 ### Connect with me:
-[![website](./img/twitter-dark.svg)](https://twitter.com/tofauemmanuel#gh-dark-mode-only)
-&nbsp;&nbsp
+[![website](./img/twitter-light.svg)](https://twitter.com/tofauemmanuel#gh-light-mode-only)
 
 
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uno36)](https://github.com/uno36/github-readme-stats)
