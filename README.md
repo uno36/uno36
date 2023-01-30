@@ -3,11 +3,12 @@
 - 🌱 I’m a coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me emmanuelutofa@gmail.com
-- 🔭 I’m currently working on **Doing C, C++, Python, HTM, CSS and JavaScript, including my technical interview preperations**
+- 🔭 I’m currently working on **C, C++, Python, HTM, CSS and JavaScript, including my technical interview preperations**
  - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
  - ✨ Fun fact: I love body building
 
 ### Connect with me:
+[<img align="left alt="twitter icon" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uno36)](https://github.com/uno36/github-readme-stats)
