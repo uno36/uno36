@@ -51,9 +51,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;<hr><hr>
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;<hr>
  
-### :link: &nbsp;Connect with me:<hr>
+### :link: &nbsp;Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tofa-673b2516a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://emmanuelutofa@gmail.com)
@@ -61,9 +61,9 @@
 [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/uno36)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelutofa/)
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/uno36)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tofauemmanuel)](https://twitter.com/tofauemmanuel)<hr><hr>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tofauemmanuel)](https://twitter.com/tofauemmanuel)<hr>
 
-### My GitHub Status | GitHub Data...<hr>
+### My GitHub Status | GitHub Data...
 
 <table><br>
   <p align="center">
