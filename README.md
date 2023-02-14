@@ -7,6 +7,11 @@
  - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
  - ✨ Fun fact: I love body building
 
+<img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Focus-Programming%20Language-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Afghanistan%20-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Persion-brightgreen"
+
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/tofauemmanuel#gh-light-mode-only)
 
