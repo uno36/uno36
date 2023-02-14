@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Coding-Enthusiaste-blue" />
    <img src="https://img.shields.io/badge/Focus-Programming%20Languages-brightgreen" />
    <img src="https://img.shields.io/badge/Dedication-Make the world a better palce%20-success" />
-  <img src="https://img.shields.io/badge/Coding Expetise-Skilled%20%26%20Persion-brightgreen"
+  <img src="https://img.shields.io/badge/Coding Expetise-Skilled-brightgreen"
  </p>
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=uno36&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" />
