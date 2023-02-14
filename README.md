@@ -80,6 +80,7 @@
 <a target="_blank">
   <img align="center" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 </a>
+<hr>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20more%20than-5000%20lines%20of%20code-blue)
 
