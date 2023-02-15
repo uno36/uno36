@@ -72,7 +72,8 @@
   </a> <br>
   <a href="https://github.com/JayantGoel001">
   <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=uno36&theme=prussian&hide_border=false"/>
-  </a>
+  </a><br>
+   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uno36&layout=compact&theme=gotham">
 </p>
 </table>
 
