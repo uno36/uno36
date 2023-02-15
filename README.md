@@ -8,7 +8,7 @@
  - ✨ Fun fact: I love body building
  
 <p align="center">
-   <img src="https://img.shields.io/badge/Coding-Enthusiaste-darkblue" />
+   <img src="https://img.shields.io/badge/Coding-Enthusiast-darkblue" />
    <img src="https://img.shields.io/badge/Focus-Programming%20Languages-darkred" />
    <img src="https://img.shields.io/badge/Dedication-Make the world a better place%20-darkblue" />
   <img src="https://img.shields.io/badge/Coding Expetise-Skilled-darkred"
