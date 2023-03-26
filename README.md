@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+Emmanuel+Tofa;a+passionate+Software+%26+Engineer+and+web+Developer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+Emmanuel+Tofa;a+passionate+Software+Engineer+and+web+Developer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m a coding and entrepreneurial enthusiast
