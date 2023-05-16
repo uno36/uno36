@@ -4,7 +4,7 @@
 - 🌱 I’m a coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me check below  👇
-- 🔭 I’m currently working on **C, C++, Python, HTM, CSS and JavaScript, and other different technologies including my technical interview preperations**
+- 🔭 I’m currently working on **C, C++, Python, HTML, CSS and JavaScript, and other different technologies including my technical interview preperations**
  - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
  - ✨ Fun fact: I love body building
  
