@@ -69,12 +69,12 @@
 <table><br>
   <p align="center">
   <a href="https://github.com/JayantGoel001">
-    <img width="410" src="https://github-readme-stats.vercel.app/api?username=uno36&show_icons=true&theme=synthwave" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=uno36&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false">
   </a> <br>
   <a href="https://github.com/JayantGoel001">
   <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=uno36&theme=synthwave&hide_border=false"/>
   </a><br>
-   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uno36&layout=compact&theme=synthwave">
+   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uno36&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 </table>
 
