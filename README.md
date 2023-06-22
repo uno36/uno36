@@ -56,13 +56,14 @@
  
 ### :link: &nbsp;Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tofa-673b2516a/)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://emmanuelutofa@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/emmanuel.tofa.5)
 [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/uno36)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelutofa/)
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/uno36)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tofauemmanuel)](https://twitter.com/tofauemmanuel)<hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uno36&theme=radical&no-frame=false&no-bg=true&margin-w=4)<hr>
 
 ### My GitHub Status | GitHub Data...
 
