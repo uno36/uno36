@@ -62,7 +62,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelutofa/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tofauemmanuel)](https://twitter.com/tofauemmanuel)<hr>
 
-## **CREDENTIALS 📜**
+## **Badges 📜**
 <p align="center" >
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809720" />
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74885289" />
