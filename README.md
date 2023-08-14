@@ -2,10 +2,10 @@
 ----------------------------------------------------------------------------------------------------------------------------
 - <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 - 🌱 I’m a coding and entrepreneurial enthusiast
-- 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
+- 💞️ I’m looking to collaborate on different programming languages to further my skills
 - 📫 How to reach me check below  👇
-- 🔭 I’m currently working on **C, C++, Python, HTML, CSS and JavaScript, and other different technologies including my technical interview preperations**
- - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
+- 🔭 I’m currently working on **React, Redux, Ruby, Ruby on Rails, JavaScript, Typescript, Angular, Postgres, C, C++, Java, Python, HTML, CSS, and other different technologies including my technical interview preparations**
+ - 🌱 I’m also experienced **UI/UX design**
  - ✨ Fun fact: I love body building
  
 <p align="center">
