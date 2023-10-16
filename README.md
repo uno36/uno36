@@ -69,6 +69,7 @@
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77366157" />
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80242807" />
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740699" /> 
+<img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84377971" /> 
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77504694" />
 <img  width="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77506086" />
 </p>
